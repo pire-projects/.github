@@ -1,4 +1,6 @@
-# STARTEAM
+# .github
+
+## STARTEAM
 
 - Gerez, Facundo.
 - Molina, Taiel.
